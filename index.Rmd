@@ -16,7 +16,7 @@ output:
 
 ## Bio
 
-Sunny Kumar is currently a master's (ScM) student in Biostatistics at Johns Hopkins. When he is not confused by a proof or frustrated by his code, he likes to run, play frisbee and listen to live music.  
+Sunny is currently a master's (ScM) student in Biostatistics at Johns Hopkins. When he is not confused by a proof or frustrated by his code, he likes to run, play frisbee and listen to live music.  
 
 ## Education
 

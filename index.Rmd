@@ -47,12 +47,6 @@ M&A Strategy Intern | Jun 2021 - Aug 2021
 
 Recovery & Resolution Program Intern, Division of Supervision & Regulation | June 2020 - August 2020
 
-
-
-
-
-
-
 ```{r, eval=FALSE, include=FALSE}
 rmarkdown::render("index.Rmd")
 ```

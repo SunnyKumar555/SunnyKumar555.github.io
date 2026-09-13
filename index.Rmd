@@ -1,0 +1,49 @@
+---
+title: "Sankalp Kumar (Sunny)"
+image: "sigridur.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/sankalp-kumar-895b33177/"
+  - label: Email
+    url: "mailto:skuma128@jh.edu"
+  - label: Github
+    url: "https://github.com/SunnyKumar555"
+  - label: Publications
+    url: "https://www.rand.org/pubs/authors/k/kumar_sankalp.html"
+output:
+  postcards::solana
+---
+
+## Bio
+
+Sunny Kumar is currently master's (ScM) student in Biostatistics at Johns Hopkins. When he is not confused by a proof or frustrated by his code, he likes to run, play frisbee and listen to live music.  
+
+## Education
+
+**Johns Hopkins University** | Baltimore, MD
+
+ScM in Biostatistics | September 2026 - Present
+
+**Columbia University** | New York, NY
+
+B.A in Mathematics-Statistics | September 2019 - May 2022
+
+**Carnegie Mellon University** | New York, NY
+
+Engineering | August 2018  - May 2019
+
+## Prior Experience
+
+**RAND Corporation** | Pittsburgh, PA
+
+**Cercle** | Producer | August 2018 - Present
+
+**National Public Radio** | Producer | May 2015 - July 2018
+
+**NME Magazine** | Editor | July 2014 - July 2016
+
+**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+
+```{r, eval=FALSE, include=FALSE}
+rmarkdown::render("index.Rmd")
+```

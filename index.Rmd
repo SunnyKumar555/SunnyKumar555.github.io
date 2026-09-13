@@ -1,6 +1,6 @@
 ---
 title: "Sankalp Kumar (Sunny)"
-image: "sigridur.jpg"
+image: "IMG_2018 (3).JPG"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/sankalp-kumar-895b33177/"
@@ -41,7 +41,6 @@ Quantitative Research Assistant | July 2023 - August 2026
 **Verisk Analytics Insurance Services Office** | Jersey City, NJ
 
 Financial Analyst | Jul 2022 - May 2023
-M&A Strategy Intern | Jun 2021 - Aug 2021
 
 **Federal Reserve Board, Div. of Supervision & Regulation** | Washington, DC
 

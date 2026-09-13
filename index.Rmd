@@ -1,6 +1,6 @@
 ---
 title: "Sankalp Kumar (Sunny)"
-image: "IMG_2018 (3).jpg"
+image: "IMG_2018 (3).JPG"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/sankalp-kumar-895b33177/"

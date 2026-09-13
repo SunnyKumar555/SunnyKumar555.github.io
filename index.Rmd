@@ -36,13 +36,22 @@ Engineering | August 2018  - May 2019
 
 **RAND Corporation** | Pittsburgh, PA
 
-**Cercle** | Producer | August 2018 - Present
+Quantitative Research Assistant | July 2023 - August 2026
 
-**National Public Radio** | Producer | May 2015 - July 2018
+**Verisk Analytics Insurance Services Office** | Jersey City, NJ
 
-**NME Magazine** | Editor | July 2014 - July 2016
+Financial Analyst | Jul 2022 - May 2023
+M&A Strategy Intern | Jun 2021 - Aug 2021
 
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+**Federal Reserve Board of Governors** | Washington, DC
+
+Recovery & Resolution Program Intern, Division of Supervision & Regulation | June 2020 - August 2020
+
+
+
+
+
+
 
 ```{r, eval=FALSE, include=FALSE}
 rmarkdown::render("index.Rmd")

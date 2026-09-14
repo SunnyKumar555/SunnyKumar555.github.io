@@ -52,8 +52,6 @@ Recovery & Resolution Program Intern | June 2020 - August 2020
 
 President | September 2021 - May 2022
 
-
-
 ```{r, eval=FALSE, include=FALSE}
 rmarkdown::render("index.Rmd")
 ```

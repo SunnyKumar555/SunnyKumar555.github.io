@@ -1,5 +1,5 @@
 ---
-title: "Sankalp Kumar (Sunny)"
+title: "Sankalp Kumar"
 image: "hiking_glacierpark.jpg"
 links:
   - label: LinkedIn
@@ -16,7 +16,7 @@ output:
 
 ## Bio
 
-Sunny is currently a master's (ScM) student in Biostatistics at Johns Hopkins. When he is not confused by a proof or frustrated by his code, he likes to run, play frisbee and listen to live music.  
+Sankalp ("Sunny") is currently a master's (ScM) student in Biostatistics at Johns Hopkins. Although he is still exploring research topics, he is broadly interested in cancer genetics/genomics. When he is not confused by a proof or frustrated by his code, he likes to run, play frisbee and listen to live music.  
 
 ## Education
 
@@ -30,7 +30,7 @@ B.A in Mathematics-Statistics | September 2019 - May 2022
 
 **Carnegie Mellon University** | New York, NY
 
-B.S Undecided | August 2018  - May 2019
+B.S Engineering | August 2018  - May 2019
 
 ## Work Experience
 
@@ -46,11 +46,13 @@ Financial Analyst | Jul 2022 - May 2023
 
 Recovery & Resolution Program Intern | June 2020 - August 2020
 
-## Volunteering
+## Skills
 
-**Food Recovery Network, Columbia Chapter** | New York, NY
-
-President | September 2021 - May 2022
+• Data wrangling: web scraping, transforming data to the correct format, dealing with missing and
+inconsistent values, merging multiple datasets, etc.
+• Making tables of descriptive statistics, making visualizations (static graphs, GUI)
+• Running regressions and other analyses, building simulations, post-processing results
+• Articulating concepts to other team members, contributing to writing
 
 ```{r, eval=FALSE, include=FALSE}
 rmarkdown::render("index.Rmd")

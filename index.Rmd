@@ -48,7 +48,7 @@ Recovery & Resolution Program Intern | June 2020 - August 2020
 
 ## Skills
 
-Data wrangling | Web scraping | Visualizations | GUI | Regression | Simulation | Writing
+Data wrangling | Web scraping | Visualizations | Shiny | Regression | Simulation | Optimization | Writing
 
 
 ```{r, eval=FALSE, include=FALSE}

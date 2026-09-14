@@ -1,5 +1,5 @@
 ---
-title: "Sankalp Kumar"
+title: "Sankalp Kumar (Sunny)"
 image: "hiking_glacierpark.jpg"
 links:
   - label: LinkedIn
@@ -16,7 +16,7 @@ output:
 
 ## Bio
 
-Sankalp ("Sunny") is currently a master's (ScM) student in Biostatistics at Johns Hopkins. Although he is still exploring research topics, he is broadly interested in cancer genetics/genomics. When he is not confused by a proof or frustrated by his code, he likes to run, play frisbee and listen to live music.  
+Hi! I'm currently a master's (ScM) student in Biostatistics at Johns Hopkins. Although I am still exploring research topics, I am broadly interested in cancer genetics/genomics. When I  am not confused by a proof or frustrated by my code, I like to run, play frisbee and listen to live music. Feel free to send recs for music in Baltimore!   
 
 ## Education
 
